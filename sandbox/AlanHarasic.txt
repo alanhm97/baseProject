@@ -1,0 +1,3 @@
+Name: Alan Harasic
+email: alanharasic@gmail.com
+gitaccount: alanhm97
